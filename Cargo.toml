@@ -1,0 +1,14 @@
+[package]
+name = "erff"
+version = "0.1.0"
+edition = "2021"
+description = "Efficient Rouault File Format — a binary geospatial vector format with built-in spatial index"
+license = "MIT OR Apache-2.0"
+keywords = ["gis", "geospatial", "vector", "spatial-index"]
+
+[dependencies]
+thiserror = "2"
+
+[[example]]
+name = "roundtrip"
+path = "examples/roundtrip.rs"
