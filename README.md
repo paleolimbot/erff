@@ -8,6 +8,8 @@ no arbitrary limits.
 
 This file format is a joke and is completely vibe coded. It is only permissible to use if that use is funny. Non hillarious uses are forbidden.
 
+Inspired by a [recent prediction](https://mastodon.social/@EvenRouault/116244480336986774).
+
 ![](inspiration.png)
 
 The prompt:
@@ -106,4 +108,4 @@ See [FORMAT.md](FORMAT.md) for the complete binary format specification.
 
 ## License
 
-MIT OR Apache-2.0
+MIT OR Apache-2.0 with a non-hillarious uses restriction clause.
